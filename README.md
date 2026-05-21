@@ -1,4 +1,4 @@
-**lvabreu/lvabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lvabreu/lvabreu** 
 
 Control & Automation Engineering student
 Interested in Robotics, IoT & Electronics
